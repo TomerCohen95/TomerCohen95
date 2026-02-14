@@ -1,16 +1,38 @@
-# Hey, I'm Tomer 👋
+<div align="center">
 
-Senior Software Engineer at **Microsoft** · Based in Israel
+# Tomer Cohen
 
-I write about software engineering, developer tools, and things I learn along the way on my blog **[tomercode.com](https://www.tomercode.com)**.
+**Senior Software Engineer at Microsoft**
+
+[![Blog](https://img.shields.io/badge/Blog-tomercode.com-blue?style=for-the-badge&logo=hashnode&logoColor=white)](https://www.tomercode.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@tomercohen95-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/tomercohen95)
+
+</div>
 
 ---
 
-### 🚀 Check out my latest project
+I build developer tools and write about software engineering on **[tomercode.com](https://www.tomercode.com)** — covering topics like debugging, automation, CI/CD, and dev productivity.
 
-[**timrev**](https://github.com/TomerCohen95/timrev) — Build AI code reviewer personas from your team's real PR history, then review any PR as your team would. Each persona reviews independently, in parallel, in that person's authentic voice.
+---
 
-### Get in touch
+### 🚀 Latest Project
 
-- 📝 Blog: [tomercode.com](https://www.tomercode.com)
-- 🐦 Twitter: [@tomercohen95](https://twitter.com/tomercohen95)
+<table>
+<tr>
+<td width="80">🤖</td>
+<td>
+
+**[timrev](https://github.com/TomerCohen95/timrev)** — Build AI code reviewer personas from your team's real PR history, then review any PR as your team would. Each persona reviews independently, in parallel, in that person's authentic voice.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=TomerCohen95&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomerCohen95&layout=compact&theme=github_dark&hide_border=true" height="165" />
+
+</div>
